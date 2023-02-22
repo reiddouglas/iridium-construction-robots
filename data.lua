@@ -92,8 +92,9 @@ local iridium_construction_robot_tech = {
         time = "30"
     },
     prerequisites = {
-        "construction-robotics"
+        "construction-robotics",
         --add SE pre-requisites here
+        "se-material-science-pack-3"
     },
     effects = {
         {
