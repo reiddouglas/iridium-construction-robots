@@ -86,7 +86,6 @@ local iridium_construction_robot_tech = {
             {"chemical-science-pack", 1},
             {"space-science-pack", 1},
             {"production-science-pack", 1},
-            {"utility-science-pack", 1},
             {"se-material-science-pack-3",1},
         },
         time = "30"
